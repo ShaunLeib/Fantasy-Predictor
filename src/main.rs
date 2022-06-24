@@ -8,5 +8,5 @@ extern crate reqwest;
 
 fn main() {
     let wrs = reqwest::blocking::get("https://www.fantasypros.com/nfl/projections/wr.php").unwrap().text().unwrap();
-    println!("{}", wrs);
+    println!("{}", wrs); 
 }

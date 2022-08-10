@@ -1,0 +1,7 @@
+/rust/target
+/rust/Cargo.lock
+
+/svelte/node_modules/
+/svelte/public/build/
+
+/svelte/.DS_Store

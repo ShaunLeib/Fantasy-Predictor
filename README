@@ -1,0 +1,4 @@
+Work in progress
+
+Application that uses rust's web scraping capabilities to gather NFL fantasy predictions from multiple sources and then average them together based on weights.
+These weights are determined by that sources accuracy from previous weeks. Can be used to determine the most accurate source as well. 
